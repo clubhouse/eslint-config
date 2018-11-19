@@ -3,10 +3,20 @@
   "version": "0.2.0-beta.2",
   "description": "Clubhouse-specific ESLint configuration.",
   "main": "index.js",
-  "repository": "https://github.com/clubhouse/eslint-config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clubhouse/eslint-config.git"
+  },
   "author": "Clubhouse",
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 5"
+  },
+  "bugs": {
+    "url": "https://github.com/clubhouse/eslint-config/issues"
+  },
+  "homepage": "https://github.com/clubhouse/eslint-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
