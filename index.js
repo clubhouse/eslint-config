@@ -28,7 +28,6 @@ module.exports = {
     "no-eval": "error",
     "no-implied-eval": "error",
     "no-multiple-empty-lines": ["error", { max: 1, maxEOF: 1 }],
-    "no-redeclare-func": "error",
     "no-trailing-spaces": "error",
     "no-useless-escape": "off",
     "no-useless-concat": "error",
