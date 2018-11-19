@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/clubhouse/eslint-config/issues"
   },
-  "homepage": "https://github.com/clubhouse/eslint-config#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/clubhouse/eslint-config#readme"
 }
