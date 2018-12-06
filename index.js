@@ -22,7 +22,12 @@ module.exports = {
     eqeqeq: "error",
     "guard-for-in": "error",
     "key-spacing": ["error", { beforeColon: false }],
-    "max-len": ["warn", 120],
+    "max-len": ["warn", 120, { 
+      ignoreStrings: true, 
+      ignoreTemplateLiterals: true,
+      ignoreUrls: true,
+      ignoreRegExpLiterals: true
+    }],
     "max-params": ["error", 4],
     "no-console": "off",
     "no-debugger": "warn",
