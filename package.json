@@ -1,6 +1,6 @@
 {
   "name": "@clubhouse.io/eslint-config",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Clubhouse-specific ESLint configuration.",
   "main": "index.js",
   "repository": {
