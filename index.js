@@ -11,7 +11,6 @@ module.exports = {
     es6: true
   },
   rules: {
-    "arrow-body-style": ["error", "as-needed"],
     "arrow-parens": "error",
     "brace-style": ["error", "1tbs"],
     "comma-dangle": "error",
